@@ -16,4 +16,4 @@
 - [ ] Correr git add index.html
 - [x] Correr git commit -m "Initial Commit"
 - [x] Correr `git push`
-- [ ] Modificar archivo desde GitHub y halar cambios con `git pull`
+- [x] Modificar archivo desde GitHub y halar cambios con `git pull`
