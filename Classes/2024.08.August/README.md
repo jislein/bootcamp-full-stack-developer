@@ -1,12 +1,10 @@
-# Test
-
-<small>*Maybe we could add here a summary of what we saw/learned on each week of class.*</small>
+# Quick Links
 
 ## Week 1 
 
 Class notes:
-* [Monday](https://github.com/jislein/bootcamp-full-stack-developer/blob/main/Classes/2024.08.August/05.Mon/notes.md)
-* [Wednesday](https://github.com/jislein/bootcamp-full-stack-developer/blob/main/Classes/2024.08.August/07.Wed/notes.md)
+* [Monday](https://github.com/jislein/bootcamp-full-stack-developer/blob/main/Classes/2024.08.August/05.Mon/notes.md) - BootCamp Introduction
+* [Wednesday](https://github.com/jislein/bootcamp-full-stack-developer/blob/main/Classes/2024.08.August/07.Wed/notes.md) - Intro to HTML and GitHub
 * [Friday](https://github.com/jislein/bootcamp-full-stack-developer/blob/main/Classes/2024.08.August/09.Fri/notes.md)
 
 ## Week 2 
