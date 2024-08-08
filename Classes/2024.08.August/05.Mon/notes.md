@@ -1,4 +1,8 @@
-# Title
-Today's class was about...
+# Introduction
+
+* General introduction of the bootcamp
+* Getting to know the teacher and of all members of the full-stack group.
+
 ## Tarea?
-Today's homework is...
+
+No assignments.
