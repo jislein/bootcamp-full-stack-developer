@@ -5,4 +5,6 @@ I will be adding all projects and notes from the bootcamp in here
 
 ## Projects
 * 🌡️ [Temperature Converter](/Classes/2024.08.August/12.Mon)
+* [Students Grades Processor](/Classes/2024.08.August/14.Wed)
+* 
   

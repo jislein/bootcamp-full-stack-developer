@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    font-family: monospace, sans-serif;
+}
+
+header {
+    width: 100%;
+    text-align: center;    
+}
