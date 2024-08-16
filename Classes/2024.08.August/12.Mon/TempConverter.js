@@ -1,6 +1,3 @@
-
-// First part 
-
 // Predefined values
 const celsius = 25;
 const fahrenheitFactor = 32;
