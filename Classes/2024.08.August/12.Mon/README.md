@@ -1,5 +1,6 @@
 # Introduction to JavaScript: Data Types and Variables
 
+[Click here to preview this project](https://saeltny-dev-projects.w3spaces-preview.com/index.html)
 
 ## Assignment
 

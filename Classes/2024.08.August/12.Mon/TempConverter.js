@@ -11,7 +11,7 @@ let celsiusToKelvin = celsius + kelvinFactor;
 let fahrenheitToCelsius = (5/9) * (fahrenheit - fahrenheitFactor);
 let fahrenheitToKelvin = (fahrenheit - fahrenheitFactor) * (5/9) + kelvinFactor;
 let kelvinToCelsius = kelvin - kelvinFactor;
-let kelvinToFahrenheit = (kelvin - k+elvinFactor) * (9/5) + fahrenheitFactor;
+let kelvinToFahrenheit = (kelvin - kelvinFactor) * (9/5) + fahrenheitFactor;
 
 
 console.log('');
