@@ -1,5 +1,6 @@
 # JavaScript: Array, Loops and Operators
 
+[Click here to preview this project](https://saeltny-dev-projects.w3spaces.com/)
 
 ## Assignment
 
