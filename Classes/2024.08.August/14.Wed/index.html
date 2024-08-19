@@ -7,32 +7,141 @@
     <title>Student Grades</title>
 </head>
 <body>
-    <header><h1>Student Grades</h1></header>
+    <header>
+        <h1>Student Grades Processor</h1>
+        <nav>
+            <ul>
+                <li id="easy-cake">Easy Cake: </li>
+                <li id="good-enough">Good Enough: </li>
+                <li id="survived">Barely Survived: </li>
+                <li id="rip">R.I.P.: </li>
+            </ul>
+           </nav>
+    </header>
     
-    <div>
-        <table>            
-            <tr class="column-names"><td>Name</td><td colspan="10">Grades</td><td>Average</td><td>Status</td></tr>
+
+    <!-- <div class="grades-table">
+        <table>
+            <thead>
+                <tr>
+                    <th>NAME</th>
+                    <td colspan="8">Fulano Smith</td>
+                </tr>
+            </thead>
+            <thead>
+                <tr>
+                    <th>GRADES</th>
+                    <td>100</td>
+                    <td>100</td>
+                    <td>100</td>
+                    <td>100</td>
+                    <td>100</td>
+                    <td>100</td>
+                    <td>100</td>
+                </tr>
+            </thead>
+            <thead>
+                <tr>
+                    <th>AVERAGE</th>
+                    <td colspan="8">100</td>
+                </tr>
+            </thead>
+            <thead>
+                <tr>
+                    <th>STATUS</th>
+                    <td colspan="8">Approved</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+
+                </tr>
+            </tbody>
+
+            
+
+
+            <tr class="column-names"><th>NAME</th><th colspan="7">GRADES</th><th>AVERAGE</th><th>STATUS</th></tr>
             
             <tr>
                 <td>Fulano Smith</td>
 
-                <td>55</td>
-                <td>55</td>
-                <td>55</td>
-                <td>55</td>
-                <td>55</td>
-                <td>55</td>
-                <td>55</td>
-                <td>55</td>
-                <td>55</td>
-                <td>55</td>
+                <td>100</td>
+                <td>100</td>
+                <td>100</td>
+                <td>100</td>
+                <td>100</td>
+                <td>100</td>
+                <td>100</td>                
 
-                <td></td>
-                <td></td>
+                <td>100</td>
+                <td>Approved</td>
             </tr>
             
         </table>
+    </div> -->
+    <!-- <div class="grades-table">
+        <table>
+            <thead>
+                <tr>
+                    <th>NAME</th>
+                    <td colspan="8">Fulano Smith</td>
+                </tr>
+            </thead>
+            <thead>
+                <tr>
+                    <th>GRADES</th>
+                    <td>100</td>
+                    <td>100</td>
+                    <td>100</td>
+                    <td>100</td>
+                    <td>100</td>
+                    <td>100</td>
+                    <td>100</td>
+                </tr>
+            </thead>
+            <thead>
+                <tr>
+                    <th>AVERAGE</th>
+                    <td colspan="8">100</td>
+                </tr>
+            </thead>
+            <thead>
+                <tr>
+                    <th>STATUS</th>
+                    <td colspan="8">Approved</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+
+                </tr>
+            </tbody>
+
+            <tr class="column-names"><th>NAME</th><th colspan="7">GRADES</th><th>AVERAGE</th><th>STATUS</th></tr>
+            
+            <tr>
+                <td>Fulano Smith</td>
+
+                <td>100</td>
+                <td>100</td>
+                <td>100</td>
+                <td>100</td>
+                <td>100</td>
+                <td>100</td>
+                <td>100</td>                
+
+                <td>100</td>
+                <td>Approved</td>
+            </tr>
+            
+        </table>
+    </div> -->
+    
+    <div id="div-container">
+
     </div>
+    <button onclick="create_table()">Create Table</button>
     <script src="GradesProcessor.js"></script>
 </body>
 </html>
