@@ -329,7 +329,7 @@ function sort_grades(id,order) {
 
     else if (order == "asce"){
         // The function inside reverse() is needed when sorting numeric values
-        gradesArray.reverse(function(a, b){return a-b});
+        gradesArray.sort(function(a, b){return b-a});
         document.getElementById("sort-button-"+id).setAttribute("value", "desc");
     }
 
@@ -478,7 +478,7 @@ function create_student_profile(studentName,grades) {
     //     Student added to the database.        
     //     -----------------------------------        
     //     `)
-    // console.table(studentDatabase)
+    console.table(studentDatabase)
 }
 
 function calculate_grades_average(gradesArray) {
