@@ -10,6 +10,7 @@ Create a To-Do List app that allows to add tasks and mark them as completed. You
 
 Starting code:
 
+HTML:
 ```html
 <!DOCTYPE html>
 <html lang="es">
@@ -29,6 +30,7 @@ Starting code:
 </html>
 ```
 
+CSS:
 ```css
 body {
     font-family: Arial, sans-serif;
@@ -51,6 +53,7 @@ li.completed {
 }
 ```
 
+JavaScript:
 ```js
 /*TODO: Get Button Element By Id*/.('addTaskButton').addEventListener('click', function() {
     const taskInput = document.getElementById('newTaskInput');
