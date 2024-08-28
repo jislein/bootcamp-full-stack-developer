@@ -1,4 +1,4 @@
-/*TODO: Get Button Element By Id*/
+/*DONE: Get Button Element By Id*/
 document.getElementById('addTaskButton').addEventListener('click', function() {
     const taskInput = document.getElementById('newTaskInput');
     const newTask = taskInput.value.trim();
